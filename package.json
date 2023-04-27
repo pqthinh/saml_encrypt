@@ -1,0 +1,22 @@
+{
+  "name": "saml_encrypt",
+  "version": "1.0.0",
+  "description": "Node.js module for encoding and decoding SAML request and response payloads for redirect or POST bindings",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "pqthinh",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "async": "^1.5.2",
+    "mocha": "^2.4.5",
+    "should": "^8.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pqthinh/saml_encrypt.git"
+  }
+}
